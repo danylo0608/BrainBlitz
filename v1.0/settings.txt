@@ -1,0 +1,3 @@
+timer=30
+rows=5
+cols=7
